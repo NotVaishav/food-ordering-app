@@ -1,4 +1,4 @@
-import { Fragment } from 'react/cjs/react.production.min'
+import { Fragment } from 'react'
 import classes from './Modal.module.css'
 import ReactDOM from 'react-dom'
 
